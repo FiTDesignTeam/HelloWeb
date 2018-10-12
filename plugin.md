@@ -91,9 +91,29 @@ module.exports = {
 ``` js
 
 /**
+ * isWindows 判断系统是否为window系统
+ * @return {Boolean} true || false
+ */
+HelloWeb.isWindows
+
+
+/**
+ * isMac 判断系统是否为mac系统
+ * @return {Boolean} true || false
+ */
+HelloWeb.isMac
+
+/**
  * renderVue 利用Vue来渲染view
  * @param  {Object} option         Vue配置对象
- * @param  {Plugin} pluginInstance 插件实例
+ * 如:
+ * {
+ *   data: function () {return {a: 1} },
+ *   method: {
+ *     handleClick: function(e) { console.log(e) }
+ *   }
+ * }
+ * @param  {Plugin} pluginInstance 插件实例 = this
  * @return {VDOM}                  Vue虚拟DOM对象
  */
 HelloWeb.renderVue(option, pluginInstance)
