@@ -1,4 +1,4 @@
-# HelloWeb
+# HelloWeb ![release-0.0.1](https://img.shields.io/badge/release-0.0.1-green.svg)
 > The tool to change the way you build the web.
 
 [项目官网](https://fitdesignteam.github.io/HelloWeb/home.html)
