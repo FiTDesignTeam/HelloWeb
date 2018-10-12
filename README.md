@@ -29,7 +29,7 @@ HelloWeb是可视化和可个性化定制的web前端开发平台，致力于通
 
 > 扩展功能可以通过插件系统来实现，下面👇会介绍支持自定义一切的插件系统！图片base64转化，图片css转化...更多功能等你来探索和开发。
 
-![demo3](/Users/sheldonluo/workspace/HelloWeb/img/demo3.png)
+![demo3](./img/demo3.png)
 
 
 
