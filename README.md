@@ -1,7 +1,11 @@
 # HelloWeb ![release-0.0.1](https://img.shields.io/badge/release-0.0.1-green.svg)
 > The tool to change the way you build the web.
 
-[项目官网](https://fitdesignteam.github.io/HelloWeb/home.html)
+- [项目官网](https://fitdesignteam.github.io/HelloWeb/home.html)
+- [下载Windows版](https://idemo.qq.com/helloweb/release/HelloWeb_Setup_0.0.1.exe)
+- [下载Mac版](https://idemo.qq.com/helloweb/release/HelloWeb-0.0.1.dmg)
+
+### 概览
 
 HelloWeb是可视化和可个性化定制的web前端开发平台，致力于通过提供web开发解决方案来提升开发效率和提高输出质量，其中包括环境搭建，开发，打包构建，发布。
 
